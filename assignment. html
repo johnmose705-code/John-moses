@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Lists</title>
+    <style>
+      
+      ol {
+        background-color: blue;
+        color: white;
+        padding: 20px 40px;
+        border-radius: 10px;
+      }
+      ul {
+        background-color: red;
+        color: white;
+        
+      }
+
+      
+      a{
+          color:white;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>Lists, Anchor Tags, Images</h1>
+
+    <ol>
+      <li>Names</li>
+      <li>Mboya</li>
+      <li>Eunique</li>
+    </ol>
+
+    <ul>
+      <li>age</li>
+      <li>23</li>
+      <li>45</li>
+    </ul>
+
+    <ol>
+      <li>
+        <a href="https://www.google.com">Google</a>
+      </li>
+      <li>
+        <a href="https://www.google.com" target="_blank"> Google Page</a>
+      </li>
+      <li>
+        <a href="https://www.pexels.com/">For no copyright images</a>
+      </li>
+    </ol>
+
+    <img src="https://images.pexels.com/photos/30063037/pexels-photo-30063037.jpeg" alt="walk way" width="500" />
+  </body>
+</html>
